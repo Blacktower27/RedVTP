@@ -22,17 +22,3 @@ Each repository contains the minimal modified baseline code and the pruning-base
 
 ---
 
-## Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@misc{xu2025redvtptrainingfreeaccelerationdiffusion,
-      title={RedVTP: Training-Free Acceleration of Diffusion Vision-Language Models Inference via Masked Token-Guided Visual Token Pruning}, 
-      author={Jingqi Xu and Jingxi Lu and Chenghao Li and Sreetama Sarkar and Souvik Kundu and Peter A. Beerel},
-      year={2025},
-      eprint={2511.12428},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2511.12428}, 
-}
