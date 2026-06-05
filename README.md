@@ -22,4 +22,14 @@ Please visit the corresponding repositories below for installation and inference
 Each repository contains the minimal modified baseline code and the pruning-based inference scripts.
 
 ---
-
+If you want to change the dataset, please directly modify this bash script in lmms-eval.
+## Cite us
+```bash
+@inproceedings{xu2026redvtp,
+  title={RedVTP: Training-Free Acceleration of Diffusion Vision-Language Models Inference via Masked Token-Guided Visual Token Pruning},
+  author={Xu, Jingqi and Lu, Jingxi and Li, Chenghao and Sarkar, Sreetama and Kundu, Souvik and A Beerel, Peter},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2783--2792},
+  year={2026}
+}
+```
